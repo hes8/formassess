@@ -5,10 +5,11 @@ use strict;
 # - make a table @c_table (row 1 based)
 # predecessor c(s) - up to 5, resources (string)
 
-#Copyright (C) 2014 Henry E. Schaffer
-# License Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+# Copyright (C) 2014 Henry E. Schaffer
+# Creative Commons Attribution-NonCommercial 4.0 International License
+# https://creativecommons.org/licenses/by-nc/4.0/
 
-#                             Variables Used
+#            Variables Used
 # $debug used to control debugging printing
 # # "c" stands for "concept"
 # $data_line  to input one row of a database
