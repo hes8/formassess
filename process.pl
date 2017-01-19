@@ -4,9 +4,10 @@ use strict;
 # each student plus class summary for instructor
 # read in 3 .tsv files - all exported from spreadsheet or other
 # Copyright (C) 2014, 2017 Henry E. Schaffer
-# License: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+# Creative Commons Attribution-NonCommercial 4.0 International License
+# https://creativecommons.org/licenses/by-nc/4.0/
 
-#                             Variables Used
+#               Variables Used
 # $debug used to control debugging printing
 # "c" stands for "concept"
 # $data_line  to input one row of a database
