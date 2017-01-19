@@ -3,10 +3,11 @@ use strict;
 
 # Read in short subject categories .tsv print out full .tsv version s2f
 
-#Copyright (C) 2014 Henry E. Schaffer
-# License Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+# Copyright (C) 2014 Henry E. Schaffer
+# Creative Commons Attribution-NonCommercial 4.0 International License
+# https://creativecommons.org/licenses/by-nc/4.0/
 
-#                             Variables Used
+#            Variables Used
 # # "c" stands for "concept"
 # $data_line  to input one row of a database
 # @data_row split $data_line at commas
