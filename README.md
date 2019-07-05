@@ -16,9 +16,11 @@ discussed below.
 
 The data on student performance on quizzes (i.e. the correct/incorrect
 answers) usually is downloaded from a Learning Management System (e.g.
-Moodle, BlackBoard, ...) or from a scan of mark-sense forms. In all of
-these cases, the data may need to be reformatted and further processed
-to get it into the sqp.tsv format needed by the process.pl script.
+Moodle, BlackBoard, ...) or from a scan of mark-sense forms. (For 
+Scantron scanners which output .sdf files, the script sdf2csv.pl uses
+that file to produce a .csv file.) In all of these cases, the data may 
+need to be reformatted and further processed to get it into the sqp.tsv 
+format needed by the process.pl script.
 
 The Perl scripts and the .tsv files included produce the examples shown
 in the manuscript. Later versions of the Perl script have additional
