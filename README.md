@@ -114,5 +114,5 @@ in a Large Introductory Science Course.
 Innov High Educ (2020). https://doi-org.prox.lib.ncsu.edu/10.1007/s10755-020-09527-5
 Innov High Educ 46, 133–151 (2021)
 
-Copyright (C) 2017 Henry E. Schaffer
+Copyright (C) 2017, 2022 Henry E. Schaffer
 # License: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
