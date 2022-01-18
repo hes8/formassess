@@ -103,5 +103,16 @@ To produce the student version of the concept table (Fig. 7)
 Actually prints out the full table, not just the top as shown in Fig. 7
 $ ./sco.pl < gn-concept-table.pl
 
+Publications:
+Automating Individualized Formative Feedback in Large Classes Based on a Directed Concept Graph
+Henry E. Schaffer, Karen R. Young, Emily W. Ligon and Diane D. Chapman
+Front. Psychol., 28 February 2017 https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00260/full
+
+Young, K.R., Schaffer, H.E., James, J.B. & Maria T. Gallardo-Williams 
+Tired of Failing Students? Improving Student Learning Using Detailed and Automated Individualized Feedback 
+in a Large Introductory Science Course. 
+Innov High Educ (2020). https://doi-org.prox.lib.ncsu.edu/10.1007/s10755-020-09527-5
+Innov High Educ 46, 133–151 (2021)
+
 Copyright (C) 2017 Henry E. Schaffer
 # License: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
