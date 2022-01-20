@@ -88,6 +88,11 @@ sco.pl produces the student version. It uses the short version as input.
 There is no reason why it couldn't use the full version - but that's not
 what it does.
 
+[For helping students, it's important that the concept table/graph be "acyclic".
+This is discussed in the Publications. There are various ways this can be
+verified, or not. The method I used is the dfsc.pl Depth First Search which is
+implemented in dfsc.pl]
+
                             Examples of Use
 
 To read in gn-concept-table.tsv (Fig. 1), qwm-ex.tsv  (Fig. 4) and
